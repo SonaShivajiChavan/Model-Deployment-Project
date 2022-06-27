@@ -1,7 +1,7 @@
-Model Deployment for Wine Quality Data
+## Model Deployment for Wine Quality Data
 
 
-About the DataSet
+### About the DataSet:
 
 Size of the DataSet : 1599 records * 12 features
 
